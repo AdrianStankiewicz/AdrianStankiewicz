@@ -3,7 +3,7 @@
 ___
 #### 🎓 Senior of Computer Science at [Gdynia Maritime University](https://umg.edu.pl)
 #### 💻 Working as Software Engineer - Intern at [Solidigm](https://www.solidigm.com)
-#### 🧩 Not letting lecturres waste my time by [conquering puzzles](https://www.codewars.com/users/AdrianStankiewicz)
+#### 🧩 Not letting lectures waste my time by [conquering puzzles](https://www.codewars.com/users/AdrianStankiewicz)
 #### 🦀 Currently learning [Rust](https://www.rust-lang.org)
 #### 🛼 Avid rollerblading fan
 ___
