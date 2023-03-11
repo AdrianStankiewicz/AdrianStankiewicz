@@ -1,5 +1,5 @@
 ## Hi, Adrian here 👋
-### I'm a 👨🏻‍💻 from 🇵🇱
+### I'm a 👨🏻‍💻 from 🇵Poland
 ___
 #### 🎓 Senior of Computer Science at [Gdynia Maritime University](https://umg.edu.pl)
 #### 💻 Working as Software Engineer - Intern at [Solidigm](https://www.solidigm.com)
